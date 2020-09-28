@@ -1,4 +1,4 @@
-hello, it's jiny kim's git profile.
+hello, it's jiny kim's github profile.
 
 I want to write code that reuseable, readable, renewable.
 
