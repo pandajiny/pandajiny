@@ -1,6 +1,9 @@
-hello, it's jiny kim's github profile.
+개발자 김환진의 Github입니다.
 
-I want to write code that reuseable, readable, renewable.
+JavaScript 기반 웹 개발을 주로 진행하고 있으며, 스케쥴러 어플리케이션이나 블로그, 작업 자동화 등 주로 스스로가 필요한 서비스를 개발합니다.
 
-interesting :
-typescript, serverless, nodejs, react, mobile platform(kotlin, react-native, flutter), machine learning(tensorflow, keras), dotnet
+React, Express, Nest 등의 JS Framework를 기반으로 서비스를 구성하며 ASP.NET, django, flask, Tensor-Flow, Kotlin-Android 등 필요한 언어와 라이브러리, 프레임워크를 때에 맞춰 배우고, 사용하며 익히고 있습니다.
+
+웹 표준, RESTful 설계, 코드의 가독성 및 재사용성 등 주로 광범위하게 인용되며 명확한 개념을 공부하는 것을 즐깁니다. 기술이 발전하고, 스택이 다양해 질 수록 오히려 탄탄한 기본기가 뒷받침 되는 것이 중요해진다고 믿습니다.
+
+아직 많이 부족하고, 경험은 모자라지만. 꾸준히 발전하고 올바른 방향을 추구하도록 노력하고 있습니다.
