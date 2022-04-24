@@ -9,6 +9,7 @@ Notion : https://www.notion.so/JINY-KIM-Programmer-9173d73002b74c279c695ca34c173
 <br/>
 
 관심있는 기술 :
+<br/>
 TypeScript, Nest.js, Svelte.js
 <br/>
 Kotlin, Spring
