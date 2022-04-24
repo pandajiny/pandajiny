@@ -5,7 +5,7 @@
 
 Blog : https://velog.io/@pandajiny
 <br/>
-Notion : https://www.notion.so/JINY-KIM-Programmer-9173d73002b74c279c695ca34c1738eb
+Notion : https://jeweled-dawn-cdd.notion.site/JINY-KIM-Programmer-9173d73002b74c279c695ca34c1738eb
 <br/>
 
 관심있는 기술 :
