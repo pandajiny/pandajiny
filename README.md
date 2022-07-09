@@ -10,8 +10,10 @@ Notion : https://jeweled-dawn-cdd.notion.site/JINY-KIM-Programmer-9173d73002b74c
 
 관심있는 기술 :
 <br/>
-TypeScript, Nest.js, Svelte.js
+TypeScript, Nest.js, Svelte.js, React.js
 <br/>
 Kotlin, Spring
 <br/>
 C#, ASP.NET, Unity
+<br/>
+Flutter
